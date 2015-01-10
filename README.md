@@ -1,9 +1,4 @@
-# HP Cloud ASCII Logo For SSH Login on HP Helion Cloud
-
-Intended to be used by Systems Manufactured or Owned by Hewlett-Packard Company.
-
-For usage, you must comply with the usage rights - http://www8.hp.com/us/en/privacy/terms-of-use.html . For Free of Cost, it is distributed by Dr. Abhishek Ghosh without any License on GitHub with link toward's the Logo usage guide of Hewlett-Packard Company for public display of The Notice (written in all caps within this article). Hewlett-Packard Company can request or claim the art as their own, can request to delete such distribution. 
-
+# HP Cloud ASCII Logo For SSH Login on HP Helion Cloud :sparkles:
 ````
 
 
@@ -40,15 +35,15 @@ For usage, you must comply with the usage rights - http://www8.hp.com/us/en/priv
 
 ````
 
-# How to USE
+# How to USE on SSH :question:
 
-I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art :
+I can not write here how to use as it is logo and represents another company which is not mine! It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art :
 
-https://thecustomizewindows.com/2015/01/hp-ascii-logo-on-ssh-pre-login-hp-cloud-ubuntu/
+:lock: https://thecustomizewindows.com/2015/01/hp-ascii-logo-on-ssh-pre-login-hp-cloud-ubuntu/
 
-# How to use on localhost as Shebang script
+# How to use on localhost as Shebang Script :question:
 
-There is a `hp.sh` script. Do a curl or wget or manually copy and paste as `.sh` file. Run these :
+That can written here! There is a `hp.sh` script. Do a curl or wget or `git clone` this project (good idea) or manually copy and paste as `.sh` file. Run these :
 
 ````
 git clone https://github.com/AbhishekGhosh/HP-Cloud-ASCII-Logo.git
@@ -60,9 +55,16 @@ chmod +x hp.sh
 
 ![Image of HP logo ASCII Art](https://thecustomizewindows.com/wp-content/uploads/2015/01/HP-ASCII-Logo.png)
 
-You will get a nice HP logo on CLI. Official colored.
+You will get a nice HP logo on CLI. Official colored. Unofficially, you can stop reading here. Officially you should read the Legal part.
 
 # Legal
+
+Intended to be used by Systems Manufactured or Owned by Hewlett-Packard Company.
+
+For usage, you must comply with the usage rights :
+:link: http://www8.hp.com/us/en/privacy/terms-of-use.html . 
+
+For Free of Cost, it is distributed by Dr. Abhishek Ghosh without any License on GitHub with link toward's the Logo usage guide of Hewlett-Packard Company for public display of The Notice (written in all caps within this article). Hewlett-Packard Company can request or claim the art as their own, can request to delete such distribution. 
 
 This is a Logo, which is an intellectual property. I have created for my personal usage and I am distributing it free of cost with good faith for fair intention of usage. This is an official notice as normally needed. 
 
