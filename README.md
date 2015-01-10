@@ -42,7 +42,9 @@ For usage, you must comply with the usage rights - http://www8.hp.com/us/en/priv
 
 # How to USE
 
-I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art. 
+I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art :
+
+https://thecustomizewindows.com/2015/01/hp-ascii-logo-on-ssh-pre-login-hp-cloud-ubuntu/
 
 # How to use on localhost as Shebang script
 
@@ -56,16 +58,12 @@ chmod +x hp.sh
 
 ````
 
+![Image of HP logo ASCII Art](https://thecustomizewindows.com/wp-content/uploads/2015/01/HP-ASCII-Logo.png)
+
 You will get a nice HP logo on CLI. Official colored.
 
 # Legal
 
 This is a Logo, which is an intellectual property. I have created for my personal usage and I am distributing it free of cost with good faith for fair intention of usage. This is an official notice as normally needed. 
 
-THIRD PARTY WEBSITES (INCLUDING BUT NOT LIMITED TO; SELF HOSTED, THIRD PARTY HOSTED) EXCEPT THAT OF Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company, IF DISTRIBUTE, DISPLAY PUBLICLY, USE FOR ANY MATERIALISTIC GAIN, WILL BE LIABLE TO PAY A FINE TOWARDS DR. ABHISHEK GHOSH AND MAY NEED TO PAY A FINE TOWARDS Hewlett-Packard Company WHICH IS, NOT LESS THAN $2000. 
-
-SSH, IN ESSENCE IS INTENDED FOR PERSONAL LOGIN TO A SERVER. USERS USING OTHER COMPANY'S HOSTING, MIGHT NOT USE THIS ART. THE PRE-LOGIN SCREEN BROADCASTS A LEGAL NOTICE. HP HELION PUBLIC CLOUD USERS CAN USE THE ART IN FULL AS DISPLAYED ABOVE.  
-
-USAGE FOR PERSONAL USAGE IS FULLY FREE, USAGE FOR COMMERCIAL USAGE DEMANDS TO FULFILL Hewlett-Packard Company's WRITTEN PERMISSION. DR. ABHISHEK GHOSH OR THIS WEBSITE (THECUSTOMIZEWINDOWS.COM), WILL NOT BE LIABLE FOR ANY ABUSE BY THIRD PARTY. 
-
-ANY MODIFICATION EXCEPT THAT OF BY Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company WILL DEMAND A PRIOR WRITTEN PERMISSION AND A FEE TOWARDS DR. ABHISHEK GHOSH FOR MONITORING THE LEGAL USAGE. 
+THIRD PARTY WEBSITES (INCLUDING BUT NOT LIMITED TO; SELF HOSTED, THIRD PARTY HOSTED) EXCEPT THAT OF Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company. SSH, IN ESSENCE IS INTENDED FOR PERSONAL LOGIN TO A SERVER. USERS USING OTHER COMPANY'S HOSTING, MIGHT NOT USE THIS ART. THE PRE-LOGIN SCREEN BROADCASTS A LEGAL NOTICE. HP HELION PUBLIC CLOUD USERS CAN USE THE ART IN FULL AS DISPLAYED ABOVE.  USAGE FOR PERSONAL USAGE IS FULLY FREE, USAGE FOR COMMERCIAL USAGE DEMANDS TO FULFILL Hewlett-Packard Company's WRITTEN PERMISSION. DR. ABHISHEK GHOSH OR THIS WEBSITE (THECUSTOMIZEWINDOWS.COM), WILL NOT BE LIABLE FOR ANY ABUSE BY THIRD PARTY. 
