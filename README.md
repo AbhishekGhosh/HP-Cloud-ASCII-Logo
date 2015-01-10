@@ -1,5 +1,8 @@
-# HP Cloud ASCII Logo
-HP Cloud ASCII Logo for SSH Pre-Login on HP Helion Public Cloud
+# HP Cloud ASCII Logo For SSH Login on HP Helion Cloud
+
+Intended to be used by Systems Manufactured or Owned by Hewlett-Packard Company.
+
+For usage, you must comply with the usage rights - http://www8.hp.com/us/en/privacy/terms-of-use.html . For Free of Cost, it is distributed by Dr. Abhishek Ghosh without any License on GitHub with link toward's the Logo usage guide of Hewlett-Packard Company for public display of The Notice (written in all caps within this article). Hewlett-Packard Company can request or claim the art as their own, can request to delete such distribution. 
 
 ````
 
@@ -36,5 +39,17 @@ HP Cloud ASCII Logo for SSH Pre-Login on HP Helion Public Cloud
 
 
 ````
+
+# Legal
+
+This is a Logo, which is an intellectual property. I have created for my personal usage and I am distributing it free of cost with good faith for fair intention of usage. This is an official notice as normally needed. 
+
+THIRD PARTY WEBSITES (INCLUDING BUT NOT LIMITED TO; SELF HOSTED, THIRD PARTY HOSTED) EXCEPT THAT OF Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company, IF DISTRIBUTE, DISPLAY PUBLICLY, USE FOR ANY MATERIALISTIC GAIN, WILL BE LIABLE TO PAY A FINE TOWARDS DR. ABHISHEK GHOSH AND MAY NEED TO PAY A FINE TOWARDS Hewlett-Packard Company WHICH IS, NOT LESS THAN $2000. 
+
+SSH, IN ESSENCE IS INTENDED FOR PERSONAL LOGIN TO A SERVER. USERS USING OTHER COMPANY'S HOSTING, MIGHT NOT USE THIS ART. THE PRE-LOGIN SCREEN BROADCASTS A LEGAL NOTICE. HP HELION PUBLIC CLOUD USERS CAN USE THE ART IN FULL AS DISPLAYED ABOVE.  
+
+USAGE FOR PERSONAL USAGE IS FULLY FREE, USAGE FOR COMMERCIAL USAGE DEMANDS TO FULFILL Hewlett-Packard Company's WRITTEN PERMISSION. DR. ABHISHEK GHOSH OR THIS WEBSITE (THECUSTOMIZEWINDOWS.COM), WILL NOT BE LIABLE FOR ANY ABUSE BY THIRD PARTY. 
+
+ANY MODIFICATION EXCEPT THAT OF BY Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company WILL DEMAND A PRIOR WRITTEN PERMISSION AND A FEE TOWARDS DR. ABHISHEK GHOSH FOR MONITORING THE LEGAL USAGE. 
 
 
