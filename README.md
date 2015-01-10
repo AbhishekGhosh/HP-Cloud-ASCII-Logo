@@ -1,6 +1,8 @@
-# HP Cloud ASCII Logo For SSH Login on HP Helion Cloud :sparkles:
-````
+# HP Logo as ASCII Art For SSH Login on HP Helion Cloud :sparkles:
 
+HP Logo as ASCII Art. Semi-manually done, you can not convert an image directly using , circle will get distorted to kind of oval shaped object). Also, a shell script has been included, so that you can use it directly to get a Cyan colored output on CLI. 
+
+````
 
 
         MMMMMMMMMMMMMMMMWKMMMMM.   ..;oONMMMMMMMMMMMMMMMM
@@ -35,13 +37,13 @@
 
 ````
 
-# How to USE on SSH :question:
+## How to USE on this HP Logo SSH :question:
 
 I can not write here how to use as it is logo and represents another company which is not mine! It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art :
 
 :lock: https://thecustomizewindows.com/2015/01/hp-ascii-logo-on-ssh-pre-login-hp-cloud-ubuntu/
 
-# How to use on localhost as Shebang Script :question:
+### How to use this HP Logo on localhost as Shell Script :question:
 
 That can written here! There is a `hp.sh` script. Do a curl or wget or `git clone` this project (good idea) or manually copy and paste as `.sh` file. Run these :
 
