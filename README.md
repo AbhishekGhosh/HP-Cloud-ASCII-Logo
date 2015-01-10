@@ -40,6 +40,22 @@ For usage, you must comply with the usage rights - http://www8.hp.com/us/en/priv
 
 ````
 
+# How to USE
+
+I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art. 
+
+# How to use on localhost as Shebang script
+
+There is a `hp.sh` script. Do a curl or wget or manually copy and paste as `.sh` file. Run these :
+
+````
+chmod +x hp.sh
+./hp.sh
+
+````
+
+You will get a nice HP logo on CLI. Official colored.
+
 # Legal
 
 This is a Logo, which is an intellectual property. I have created for my personal usage and I am distributing it free of cost with good faith for fair intention of usage. This is an official notice as normally needed. 
@@ -51,7 +67,3 @@ SSH, IN ESSENCE IS INTENDED FOR PERSONAL LOGIN TO A SERVER. USERS USING OTHER CO
 USAGE FOR PERSONAL USAGE IS FULLY FREE, USAGE FOR COMMERCIAL USAGE DEMANDS TO FULFILL Hewlett-Packard Company's WRITTEN PERMISSION. DR. ABHISHEK GHOSH OR THIS WEBSITE (THECUSTOMIZEWINDOWS.COM), WILL NOT BE LIABLE FOR ANY ABUSE BY THIRD PARTY. 
 
 ANY MODIFICATION EXCEPT THAT OF BY Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company WILL DEMAND A PRIOR WRITTEN PERMISSION AND A FEE TOWARDS DR. ABHISHEK GHOSH FOR MONITORING THE LEGAL USAGE. 
-
-# How to USE
-
-I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art. 
