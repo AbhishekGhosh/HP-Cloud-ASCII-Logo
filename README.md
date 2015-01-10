@@ -49,6 +49,8 @@ I can not write here how to use. It is a copyright protected art by Hewlett-Pack
 There is a `hp.sh` script. Do a curl or wget or manually copy and paste as `.sh` file. Run these :
 
 ````
+git clone https://github.com/AbhishekGhosh/HP-Cloud-ASCII-Logo.git
+cd HP*
 chmod +x hp.sh
 ./hp.sh
 
