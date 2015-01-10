@@ -1,7 +1,6 @@
 
 
 
-
         MMMMMMMMMMMMMMMMWKMMMMM.   ..;oONMMMMMMMMMMMMMMMM
         MMMMMMMMMMMNkc,. OMMMMc          .,ckNMMMMMMMMMMM
         MMMMMMMM0c.     kMMMMc                .c0MMMMMMMM
@@ -29,7 +28,5 @@
         * and recorded by HP system personnel.           *
         http://www8.hp.com/us/en/privacy/terms-of-use.html
         **************************************************
-
-
 
 
