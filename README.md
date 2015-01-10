@@ -52,4 +52,6 @@ USAGE FOR PERSONAL USAGE IS FULLY FREE, USAGE FOR COMMERCIAL USAGE DEMANDS TO FU
 
 ANY MODIFICATION EXCEPT THAT OF BY Hewlett-Packard Company OR OFFICIALLY PREFERRED BY Hewlett-Packard Company WILL DEMAND A PRIOR WRITTEN PERMISSION AND A FEE TOWARDS DR. ABHISHEK GHOSH FOR MONITORING THE LEGAL USAGE. 
 
+# How to USE
 
+I can not write here how to use. It is a copyright protected art by Hewlett-Packard Company. You should read on my technology blog which is hosted on HP Helion Cloud at the of first release of this ASCII art. 
